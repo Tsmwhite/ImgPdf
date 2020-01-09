@@ -16,6 +16,8 @@ composer require tecnickcom/tcpdf
 @Imagick
 安装步骤
 
+需要安装 ghostscript 否则通过 Imagick 将 pdf转图片时会报错
+
 根据环境下载合适的 imagick扩展 和 imagemagick程序
 
 1.下载拓展
